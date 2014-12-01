@@ -11,6 +11,7 @@
   "dependencies": {
     "chai": "^1.10.0",
     "express": "^4.10.4",
+    "grunt-cli": "^0.1.13",
     "mocha": "^2.0.1"
   },
   "devDependencies": {
